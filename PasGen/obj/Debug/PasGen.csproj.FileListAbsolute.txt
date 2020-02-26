@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\PasGen\PasGen\bin\Debug\PasGen.exe.config
+C:\Users\Dimon\source\repos\PasGen\PasGen\bin\Debug\PasGen.exe
+C:\Users\Dimon\source\repos\PasGen\PasGen\bin\Debug\PasGen.pdb
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.csprojAssemblyReference.cache
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.Form1.resources
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.Properties.Resources.resources
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.exe
+C:\Users\Dimon\source\repos\PasGen\PasGen\obj\Debug\PasGen.pdb
